@@ -4,6 +4,12 @@
 
 ## 🎯 OBJETIVO DO HACKATHON: Como ampliar o acesso ao rastreamento e à detecção precoce do câncer?
 
+
+## Pitch - Vídeo de Defesa da Ideia - IA Maria
+
+[[Assista ao Pitch da IA Maria]](https://www.youtube.com/watch?v=fZXNsmXno8I)
+
+
 ## 🤖👱🏻‍♀️ IA-Maria
 
 Sistema inteligente de rastreamento, detecção precoce do câncer e encaminhamento oncológico
